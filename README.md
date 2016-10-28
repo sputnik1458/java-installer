@@ -1,7 +1,7 @@
 # java-installer
 Installs JDK 8u111 on Linux systems
 
-You must download the JDK from [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). You must dowload a .tar.gz file.
+You can download the JDK from [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). It must be a .at.gz file. 
 
 Leave the tar in your downloads folder. It can be deleted post-installation. 
 
